@@ -8,3 +8,4 @@
 - Prettier
 - Tests
 - Environment variables
+- Firebase auth
